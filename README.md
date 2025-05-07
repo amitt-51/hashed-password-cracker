@@ -14,9 +14,27 @@ This project is a password cracker that works with different hashing algorithms.
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-## Usage
-      ```bash
+   
+## Usage 
       python main.py
 
-## Usage
-![GUI Page](GUI_Page.png)
+## 🖥️ GUI Interface
+![GUI Interface](GUI_Page.png)
+
+## 🔐 Enter Hashed Password Interface
+
+This interface is used to enter the hashed password. It provides a simple and secure way for users to input their password.
+
+![Enter Hashed Password](Enter_Hashed_Password.png)
+
+## 🧮 Select Hash Type Interface
+
+This interface allows the user to select the type of hashing algorithm (e.g., MD5, SHA-256) before processing the password.
+
+![Select Hash Type](select_hash_type.png)
+
+
+
+
+
+
