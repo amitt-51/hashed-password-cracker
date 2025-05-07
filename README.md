@@ -15,7 +15,8 @@ This project is a password cracker that works with different hashing algorithms.
    ```bash
    pip install -r requirements.txt
 ## Usage
-  ```bash
-  python main.py
+      ```bash
+      python main.py
 
+## Usage
 ![GUI Page](GUI_Page.png)
