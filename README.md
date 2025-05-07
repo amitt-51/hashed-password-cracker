@@ -32,6 +32,17 @@ This interface is used to enter the hashed password. It provides a simple and se
 This interface allows the user to select the type of hashing algorithm (e.g., MD5, SHA-256) before processing the password.
 
 ![Select Hash Type](select_hash_type.png)
+## ⚡ Cracking Button Interface
+
+This button initiates the password cracking process. Once clicked, it triggers the algorithm to attempt to find the correct password by comparing hashed values.
+
+![Cracking Button](Cracking_Button.png)
+## 📊 Output Interface
+
+This image shows the output generated after the password cracking process is completed. It displays the results of the hashed password comparison, indicating whether the correct password was found or not.
+
+![Output](output.png)
+
 
 
 
