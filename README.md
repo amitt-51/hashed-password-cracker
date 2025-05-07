@@ -42,11 +42,8 @@ This button initiates the password cracking process. Once clicked, it triggers t
 This image shows the output generated after the password cracking process is completed. It displays the results of the hashed password comparison, indicating whether the correct password was found or not.
 
 ![Output](output.png)
-## 👨‍💻 About the Author
+## 📬 Contact
 
-This project is created and maintained by **Amit Kumar Singh**. Feel free to reach out for suggestions, feedback, or collaboration.
-
-- **GitHub**: [amitt-51](https://github.com/amitt-51)
 - **Email**: hello@singhamit.in
 
 
