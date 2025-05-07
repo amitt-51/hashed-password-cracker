@@ -17,3 +17,5 @@ This project is a password cracker that works with different hashing algorithms.
 ## Usage
   ```bash
   python main.py
+
+![GUI Page](GUI_Page.png)
